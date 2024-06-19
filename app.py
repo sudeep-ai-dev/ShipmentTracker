@@ -131,4 +131,4 @@ if prompt:
                         tool_outputs=tool_outputs
                     )
         else:
-            time.sleep(0.01)
+            time.sleep(0.0001)
